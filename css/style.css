@@ -1,0 +1,23 @@
+
+.square {
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+}
+
+.one {
+	background-color: red;
+}
+
+.two {
+	background-color: blue;
+}
+
+.three {
+	background-color: green;
+}
+.rectangle {
+	width: 600px;
+	height: 200px;
+	background-color: yellow;
+}
